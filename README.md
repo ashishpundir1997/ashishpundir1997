@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🚀 Full Stack Developer | Building scalable Web   <br>- 🌱 Currently learning **AI**  <br>- 🌍 Love exploring tech, startups, and new ideas  <br>- 💡 Passionate about solving problems with code & creativity  <br>- 📫 Reach me at: [ashishpundir1997@gmail.com](mailto:ashishpundir1997@gmail.com) 
+- 🚀 Full Stack Developer | Building scalable Web app   <br>- 🌱 Currently learning **AI**  <br>- 🌍 Love exploring tech, startups, and new ideas  <br>- 💡 Passionate about solving problems with code & creativity  <br>- 📫 Reach me at: [ashishpundir1997@gmail.com](mailto:ashishpundir1997@gmail.com) 
 
 
 ## 🌐 Socials:
